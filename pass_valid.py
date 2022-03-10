@@ -4,26 +4,7 @@ Date: 03/09/2022
 Password Validator
 """
 
-"""
-Your task is to create a password validator (called pass_valid.py).
-You will ask the user to input a password.
-You will continue to ask them to input a password until the password is valid.
-Once the user has inputted a valid password, print ("Creating account now...")
 
-
-What is a valid password?
-A valid password:
-
-# Minimum length of 8 and a maximum length of 32 (use len()) 
-# At least one uppercase letter
-# At least one lowercase letter
-# At least one number
-# At least one symbol
-
-Python has String helper methods for a lot of these checks! You may use Google to help.
-
-USE CTRL C
-"""
 run_once = 0  # Cool code I figured out
 special_characters = "!@#$%^&*()-+?_=,<>/"
 #input
